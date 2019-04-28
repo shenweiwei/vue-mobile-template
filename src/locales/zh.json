@@ -1,0 +1,9 @@
+{
+  "app": {
+    "title": "华人运通",
+    "homeTab": "首页",
+    "appsTab": "应用分类",
+    "orderTab": "订单中心",
+    "mineTab": "我的"
+  }
+}

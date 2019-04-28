@@ -1,0 +1,9 @@
+{
+  "app": {
+    "title": "HRYT",
+    "homeTab": "home",
+    "appsTab": "sort",
+    "orderTab": "order",
+    "mineTab": "mine"
+  }
+}
